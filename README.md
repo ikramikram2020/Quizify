@@ -13,16 +13,10 @@ Quiztify is a fun and interactive quiz application that tests your knowledge of 
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices.
 - **Animations**: Smooth transitions and feedback animations for correct/incorrect answers.
 
----
-
-
-
 ## Technologies Used 🛠️
 
 - **React**: A JavaScript library for building user interfaces.
 - **React Router**: For navigation between different pages.
 - **CSS**: Styled with custom CSS for a clean and modern look.
 - **Git**: Version control for the project.
-
----
 
