@@ -2,10 +2,10 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 
 const categories = [
-  { id: 1, name: "JavaScript" },
-  { id: 2, name: "Python" },
-  { id: 3, name: "Java" },
-  { id: 4, name: "C++" },
+  { id: 18, name: "JavaScript" },
+  { id: 19, name: "Python" },
+  { id: 20, name: "Java" },
+  { id: 21, name: "C++" },
 ];
 
 const CategorySelection = () => {
@@ -17,7 +17,7 @@ const CategorySelection = () => {
 
   return (
     <div className="category-selection">
-      <h1>Quiztify</h1>
+      <h1>Quizzy</h1>
       <h2>Choose a Programming Language</h2>
       <div className="categories">
         {categories.map((category) => (

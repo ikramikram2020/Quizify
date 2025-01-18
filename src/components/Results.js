@@ -12,7 +12,7 @@ const Results = () => {
   return (
     <div className="results">
       <h1>Quiz Results</h1>
-      <p>Your score: {score} out of 10</p>
+      <p>Your score: {score} out of 5</p>
       <button onClick={handleRetry}>Retry Quiz</button>
     </div>
   );
