@@ -1,6 +1,4 @@
 
----
-
 # Quiztify 🎮
 
 Quiztify is a fun and interactive quiz application that tests your knowledge of programming languages. Choose a category, answer questions, and see your score at the end! Built with **React** and other modern web technologies.
@@ -62,6 +60,3 @@ Contributions are what make the open-source community such an amazing place to l
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-
-
